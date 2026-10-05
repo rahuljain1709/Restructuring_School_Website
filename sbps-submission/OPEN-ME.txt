@@ -1,0 +1,10 @@
+SBPS WEBSITE ASSIGNMENT — QUICK START
+
+1. Open sample-page/index.html in Chrome, OR run:
+   cd sample-page
+   python3 -m http.server 8080
+
+2. Open http://localhost:8080
+
+3. Review docs/design-specification.md and docs/landing-page.md for the rationale.
+4. Use docs/landing-page-visual-reference.png as the visual direction board.
